@@ -1,0 +1,8 @@
+#dataset_root: ../PHOENIX-2014-T-release-v3/PHOENIX-2014-T/features/fullFrame-256x256px
+dataset_root: /dev/shm/md2409_dataset/PHOENIX-2014-T-release-v3/PHOENIX-2014-T/features/fullFrame-256x256px
+
+dict_path: ./datainfo/gloss_dict.npy
+
+evaluate_dir: ./Evaluation
+
+evaluate_prefix: phoenix2014-groundtruth
